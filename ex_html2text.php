@@ -1,4 +1,4 @@
-<?
+<?php
     // Example: html2text
     // Converts HTML to formatted ASCII text.
     // Run with: php < ex_html2text.php
@@ -15,4 +15,4 @@
     echo "-------------------\r\n";
     echo $text;
 
-?>
+    //END
